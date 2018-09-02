@@ -6,6 +6,17 @@
   "scripts": {
     "test": "./node_modules/.bin/mocha test/test.js"
   },
+  "keywords": [
+    "gulpplugin",
+    "gulp",
+    "firstfiles",
+    "order",
+    "concat"
+  ],
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/ramoneeza/gulp-firstfiles.git"
+  },
   "author": "Ramón Ordiales Plaza <ramon@eeza.csic.es>",
   "license": "ISC",
   "dependencies": {
