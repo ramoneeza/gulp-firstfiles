@@ -1,0 +1,20 @@
+{
+  "name": "gulp-firstfiles",
+  "version": "1.0.0",
+  "description": "Alternative to gulp-sort. Declare an array of files to apperar in first place.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test/test.js"
+  },
+  "author": "Ramón Ordiales Plaza <ramon@eeza.csic.es>",
+  "license": "ISC",
+  "dependencies": {
+    "through2": "^2.0.3"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-using": "^0.1.1",
+    "mocha": "^5.2.0"
+  }
+}
